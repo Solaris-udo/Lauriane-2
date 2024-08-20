@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "pmld3100@gmail.com",
-    "password": "jaguard",
+    "email": "solariscrimson10@gmail.com",
+    "password": "sapiensgpt",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -36,11 +36,11 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "(^ ◡ ^) ✂❤",
-  "authorName": "👑𝗠𝗟𝗗👑",
-  "authorFB": "https://m.me/100085261760009",
-  "authorEmail": "manosmith524@gmail.com",
-  "prefix": "'",
+  "nickNameBot": "🂮♧𝐒𝐄𝐌𝐏𝐀𝐈 ♤🂮😒",
+  "authorName": "🍭sapiens 🍸",
+  "authorFB": "https://www.facebook.com/reel/7631331583626672/?mibextid=rS40aB7S9Ucbxw6v",
+  "authorEmail": "solariscrimson10@gmail.com",
+  "prefix": "$",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
@@ -54,7 +54,7 @@
       "email": "andylabaco@gmail.com",
       "clientId": "96871167660-5js0qjdlpr2mcd331kv5obpifev5j69r.apps.googleusercontent.com",
       "clientSecret": "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",
-      "refreshToken": "1//04qK_zxJkdK7RCgYIARAAGAQSNwF-L9IrZOdI4prCgpqvAoDEvn-HpuSugKxBTRNoGS37QwxfAWJUCehSKhdas26xOh-SjmdR4uw",
+      "refreshToken": "1//04qK_zxJkdK7RCgYIARAAGAQSNwF-L9IrZOdI4prCregpqvAoDEvn-HpuSugKxBTRNoGS37QwxfAWJUCehSKhdas26xOh-SjmdR4uw",
       "apiKey": ""
     },
     "gRecaptcha": {
