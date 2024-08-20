@@ -69,7 +69,7 @@ module.exports = {
 
 [👑| 𝐒𝐀𝐏𝐈𝐄𝐍𝐒✰𝐉𝐂✰ ]`;
 
-msg += `𝐅𝐛: ✰ m.me/61557502971632☆ `;
+msg += `𝐅𝐛: ✰https//m.me/61557502971632☆ `;
 			await message.reply({
 				body: msg,
 			});
