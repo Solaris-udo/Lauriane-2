@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "solariscrimson10@gmail.com",
-    "password": "sapiensgpt",
+    "email": "senkubot8@gmail.com",
+    "password": "otakugpt",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -36,11 +36,11 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "🂮♧𝐒𝐄𝐌𝐏𝐀𝐈 ♤🂮😒",
+  "nickNameBot": "🂮𝙎𝙀𝙉𝙆𝙐🂮🤞",
   "authorName": "🍸𝐒𝐀𝐏𝐈𝐄𝐍𝐒 🍭",
   "authorFB": "https://www.facebook.com/reel/7631331583626672/?mibextid=rS40aB7S9Ucbxw6v",
-  "authorEmail": "manosmith524@gmail.com",
-  "prefix": "$",
+  "authorEmail": "senkubot8@gmail.com",
+  "prefix": "√",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
@@ -51,7 +51,7 @@
   "timeZone": "Asia/Dhaka",
   "credentials": {
     "gmailAccount": {
-      "email": "solariscrimson10@gmail.com",
+      "email": "senkubot8@gmail.com",
       "clientId": "96871167660-5js0qjdlpr2mcd331kv5obpifev5j69r.apps.googleusercontent.com",
       "clientSecret": "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",
       "refreshToken": "1//04qK_zxJkdK7RCgYIARAAGAQSNwF-L9IrZOdI4prCgpqvAoDEvn-HpuSugKxBTRNoGS37QwxfAWJUCehSKhdas26xOh-SjmdR4uw",
